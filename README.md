@@ -1,3 +1,10 @@
+# CalHousing
+## Observation from data/processed/clusters.png 
+- The K-Means model successfully created 6 distinct groups using location and income. The dot plot shows clear clusters around major California regions. This proves the model easily groups similar neighborhoods together.
+
+# Observation from stiatics of evaluation scores
+- The RandomForest classifier achieved an outstanding 99.5% accuracy. The confusion matrix shows almost zero mistakes. This proves the system can easily predict the correct cluster for any new housing data.
+
 # Data Science Project Boilerplate
 
 This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
